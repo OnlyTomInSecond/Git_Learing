@@ -3,4 +3,5 @@ git is a free software.
 git is a distributed version system.
 git is a free software under GPL
 git tracks changes
+creating a new branch is quick, name is dev
 
